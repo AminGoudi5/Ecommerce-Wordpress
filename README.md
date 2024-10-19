@@ -4,7 +4,7 @@
 ![](./images/screenshot.png)
 
 
-- Live Site URL: [Add live site URL here](https://amingoudi5.github.io/Qr-Code/)
+- Live Site URL: [Qr Code Visit Here](https://amingoudi5.github.io/Qr-Code/)
 
 ## My process
 
